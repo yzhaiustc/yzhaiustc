@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I am a PhD candidate in CS at [Univ. of California Riverside](https://www.ucr.edu/), majorly focusing on high-performance computing.
 - 🌱 I am taking an internship with [Intel Corp](https://www.intel.com/content/www/us/en/homepage.html) doing development and optimization on Intel GPUs.
-- ⚡ More about myself: I was from a non-CS background. I completed undergraduate studies in Organic Chemistry at [Univ of Sci and Tech of China](https://en.ustc.edu.cn/), a beloved college sitting in Hefei, Anhui, P.R.China. After which, I went to the US and switched to Theoretical and Computational Chemistry in the PhD program at [Duke Univ](https://duke.edu/). Having quickly realized I might be more interested in CS, I left there with a Master's degree.
+- ⚡ More about myself: I was from a non-CS background. I completed undergraduate studies in Organic Chemistry at [Univ of Sci and Tech of China](https://en.ustc.edu.cn/), a beloved college located in Hefei, Anhui, P.R.China. After which, I went to the US and switched to Theoretical and Computational Chemistry in the PhD program at [Duke Univ](https://duke.edu/). Having quickly realized I might be more interested in CS, I left there with a Master's degree.
 - 💬 You may find more info at my [LinkedIn homepage](https://www.linkedin.com/in/yujia-zhai-ustc/).
 - 😄 I earned distinguished TA awards whenever I served as TA, regardless of disciplines (Chemistry/CS) or teaching languages (Chinese/English). Here are some of my TA evaulations:
 
