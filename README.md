@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ I was from a non-CS background. I completed undergraduate studies in Organic Chemistry at [Univ of Sci and Tech of China](https://en.ustc.edu.cn/), a beloved college located in Hefei, Anhui, P.R.China. After which, I went to the US and switched to Theoretical and Computational Chemistry in the PhD program at [Duke Univ](https://duke.edu/). Having quickly realized I might be more interested in CS, I left there with a Master's degree.
 - 💬 You may find more info at my [LinkedIn homepage](https://www.linkedin.com/in/yujia-zhai-ustc/).
 - 😄 I earned distinguished TA awards whenever I served as TA, regardless of disciplines (Chemistry/CS) or teaching languages (Chinese/English). Here are some of my TA evaulations:
-- 
+
 |  Quarter  |  Course | Dept % | Univ % |                                   Comments                                   |                                   Stats                                   |
 |:---------:|:-------:|:------:|:------:|:----------------------------------------------------------------------------:|:-------------------------------------------------------------------------:|
 |  19-Fall  |  CS211  | 94.83% | 83.58% |   [file](https://www.cs.ucr.edu/~yzhai015/TA_eval/CS211_19Fall_comment.pdf)  |   [file](https://www.cs.ucr.edu/~yzhai015/TA_eval/CS211_19Fall_stat.pdf)  |
